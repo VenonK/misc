@@ -1,6 +1,6 @@
 array = [123,435,543,6546,26326,34562]
 
-finder = int(input("what to find fuck nigga "))
+finder = int(input("what to find"))
 
 first = 0
 last = len(array) -1
